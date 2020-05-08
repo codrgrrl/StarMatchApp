@@ -1,2 +1,0 @@
-# StarMatchApp
-Created with CodeSandbox
